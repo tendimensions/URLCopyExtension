@@ -1,0 +1,13 @@
+{
+  "name": "clean-url-copy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "keygen": "node scripts/keygen.js",
+    "build": "node scripts/build.js"
+  },
+  "devDependencies": {
+    "crx3": "1.1.3"
+  }
+}

@@ -3,6 +3,8 @@
   "name": "Clean URL Copy",
   "version": "1.0.0",
   "description": "Copies the current page URL to the clipboard, stripping query strings and fragments.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnJvGOSw8UnumZ4mty/LukWdFiKo+8lWot7f4+EJJH19l47YNOk4uQYLdNqamf8FHw48th3qi3ylYyd8Y8wtou8dmsL9UpIH1r9NfofB9HA0e1TpytpIxU2JYXmvaMALOvSQZwi74oZEqjczUcG+0K8mnXhGHS6IPH9exF4BF/+ssvyhSV9EVwBdPDhqTo/4DcAwDqC5gs+yxOso/t0rzaHheTZzHAxH2vThEFcuOuKtJA4j0FobAILBjRlKSBVdlOSkkelK01Xqs/an+QMuZVuXq4cCcg8yzh5XD8W/sUtc+vUc1W+V1X9xYLfbtRDkNOJGnswST1TOTgCEbSxYxgwIDAQAB",
+  "update_url": "https://mcp.tendimensions.com/extensions/clean-url-copy/update.xml",
   "permissions": [
     "activeTab",
     "clipboardWrite"
